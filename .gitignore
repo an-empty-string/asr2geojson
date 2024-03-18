@@ -1,0 +1,8 @@
+*.dat.fixed
+*.dat
+*.sqlite3
+*.sqlite3-journal
+*.gpkg
+*.geojson
+counts
+a_tower.zip
